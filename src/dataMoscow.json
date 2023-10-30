@@ -1,0 +1,218 @@
+[
+    {
+        "name": "ЖК",
+        "data": [
+            {
+                "name": "Академический",
+                "isSelected": false
+            },
+            {
+                "name": "Арбатская Миля",
+                "isSelected": false
+            },
+            {
+                "name": "Дом на Мосфильмовской",
+                "isSelected": false
+            },
+            {
+                "name": "Лужники Парк",
+                "isSelected": false
+            },
+            {
+                "name": "Олимпийская деревня",
+                "isSelected": false
+            },
+            {
+                "name": "Парк Культуры Резиденс",
+                "isSelected": false
+            },
+            {
+                "name": "Сокольники Лофт",
+                "isSelected": false
+            },
+            {
+                "name": "Тверская Застава",
+                "isSelected": false
+            },
+            {
+                "name": "Хорошево Парк",
+                "isSelected": false
+            },
+            {
+                "name": "Шмитовский",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "name": "Округ",
+        "data": [
+            {
+                "name": "Центральный",
+                "isSelected": false
+            },
+            {
+                "name": "Северный",
+                "isSelected": false
+            },
+            {
+                "name": "Южный",
+                "isSelected": false
+            },
+            {
+                "name": "Западный",
+                "isSelected": false
+            },
+            {
+                "name": "Восточный",
+                "isSelected": false
+            },
+            {
+                "name": "Юго-Западный",
+                "isSelected": false
+            },
+            {
+                "name": "Северо-Западный",
+                "isSelected": false
+            },
+            {
+                "name": "Юго-Восточный",
+                "isSelected": false
+            },
+            {
+                "name": "Северо-Восточный",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "name": "Район",
+        "data": [
+            {
+                "name": "Арбат",
+                "isSelected": false
+            },
+            {
+                "name": "Басманный",
+                "isSelected": false
+            },
+            {
+                "name": "Замоскворечье",
+                "isSelected": false
+            },
+            {
+                "name": "Красносельский",
+                "isSelected": false
+            },
+            {
+                "name": "Пресненский",
+                "isSelected": false
+            },
+            {
+                "name": "Мещанский",
+                "isSelected": false
+            },
+            {
+                "name": "Таганский",
+                "isSelected": false
+            },
+            {
+                "name": "Тверской",
+                "isSelected": false
+            },
+            {
+                "name": "Хамовники",
+                "isSelected": false
+            },
+            {
+                "name": "Якиманка",
+                "isSelected": false
+            },
+            {
+                "name": "Гагаринский",
+                "isSelected": false
+            },
+            {
+                "name": "Донской",
+                "isSelected": false
+            },
+            {
+                "name": "Лефортово",
+                "isSelected": false
+            },
+            {
+                "name": "Люблино",
+                "isSelected": false
+            },
+            {
+                "name": "Марьино",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "name": "Метро",
+        "data": [
+            {
+                "name": "Арбатская",
+                "isSelected": false
+            },
+            {
+                "name": "Бауманская",
+                "isSelected": false
+            },
+            {
+                "name": "Водный стадион",
+                "isSelected": false
+            },
+            {
+                "name": "Горьковская",
+                "isSelected": false
+            },
+            {
+                "name": "Динамо",
+                "isSelected": false
+            },
+            {
+                "name": "Елецкая",
+                "isSelected": false
+            },
+            {
+                "name": "Киевская",
+                "isSelected": false
+            },
+            {
+                "name": "Лубянка",
+                "isSelected": false
+            },
+            {
+                "name": "Маяковская",
+                "isSelected": false
+            },
+            {
+                "name": "Новокузнецкая",
+                "isSelected": false
+            },
+            {
+                "name": "Охотный ряд",
+                "isSelected": false
+            },
+            {
+                "name": "Павелецкая",
+                "isSelected": false
+            },
+            {
+                "name": "Революции площадь",
+                "isSelected": false
+            },
+            {
+                "name": "Смоленская",
+                "isSelected": false
+            },
+            {
+                "name": "Тверская",
+                "isSelected": false
+            }
+        ]
+    }
+]

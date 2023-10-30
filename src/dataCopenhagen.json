@@ -1,0 +1,65 @@
+{
+    "name": "Metro Stations",
+    "data": [
+        {
+            "name": "Nørreport",
+            "isSelected": false
+        },
+        {
+            "name": "Kongens Nytorv",
+            "isSelected": false
+        },
+        {
+            "name": "Christianshavn",
+            "isSelected": false
+        },
+        {
+            "name": "Islands Brygge",
+            "isSelected": false
+        },
+        {
+            "name": "DR Byen",
+            "isSelected": false
+        },
+        {
+            "name": "Bella Center",
+            "isSelected": false
+        },
+        {
+            "name": "Ørestad",
+            "isSelected": false
+        },
+        {
+            "name": "Vestamager",
+            "isSelected": false
+        },
+        {
+            "name": "Frederiksberg",
+            "isSelected": false
+        },
+        {
+            "name": "Fasanvej",
+            "isSelected": false
+        },
+        {
+            "name": "Lindevang",
+            "isSelected": false
+        },
+        {
+            "name": "Flintholm",
+            "isSelected": false
+        },
+        {
+            "name": "Vanløse",
+            "isSelected": false
+        },
+        {
+            "name": "Enghave Plads",
+            "isSelected": false
+        },
+        {
+            "name": "København H",
+            "isSelected": false
+        }
+    ]
+}

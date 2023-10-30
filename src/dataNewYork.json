@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Island",
+        "data": [
+            {
+                "name": "Manhattan",
+                "isSelected": false
+            },
+            {
+                "name": "Brooklyn",
+                "isSelected": false
+            },
+            {
+                "name": "Queens",
+                "isSelected": false
+            },
+            {
+                "name": "Bronx",
+                "isSelected": false
+            },
+            {
+                "name": "Staten Island",
+                "isSelected": false
+            },
+            {
+                "name": "Roosevelt Island",
+                "isSelected": false
+            },
+            {
+                "name": "Ellis Island",
+                "isSelected": false
+            },
+            {
+                "name": "Governors Island",
+                "isSelected": false
+            },
+            {
+                "name": "Liberty Island",
+                "isSelected": false
+            },
+            {
+                "name": "Randalls and Wards Islands",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "name": "Neighborhood",
+        "data": [
+            {
+                "name": "Midtown",
+                "isSelected": false
+            },
+            {
+                "name": "SoHo",
+                "isSelected": false
+            },
+            {
+                "name": "Harlem",
+                "isSelected": false
+            },
+            {
+                "name": "Greenwich Village",
+                "isSelected": false
+            },
+            {
+                "name": "Tribeca",
+                "isSelected": false
+            },
+            {
+                "name": "Chinatown",
+                "isSelected": false
+            },
+            {
+                "name": "East Village",
+                "isSelected": false
+            },
+            {
+                "name": "Chelsea",
+                "isSelected": false
+            },
+            {
+                "name": "Upper East Side",
+                "isSelected": false
+            },
+            {
+                "name": "Upper West Side",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "name": "Subway Station",
+        "data": [
+            {
+                "name": "Times Square-42nd Street",
+                "isSelected": false
+            },
+            {
+                "name": "Grand Central-42nd Street",
+                "isSelected": false
+            },
+            {
+                "name": "34th Street-Herald Square",
+                "isSelected": false
+            },
+            {
+                "name": "14th Street-Union Square",
+                "isSelected": false
+            },
+            {
+                "name": "59th Street-Columbus Circle",
+                "isSelected": false
+            },
+            {
+                "name": "Canal Street",
+                "isSelected": false
+            },
+            {
+                "name": "34th Street-Penn Station",
+                "isSelected": false
+            },
+            {
+                "name": "Fulton Street",
+                "isSelected": false
+            },
+            {
+                "name": "86th Street",
+                "isSelected": false
+            },
+            {
+                "name": "Coney Island-Stillwell Avenue",
+                "isSelected": false
+            },
+            {
+                "name": "Jay Street-MetroTech",
+                "isSelected": false
+            },
+            {
+                "name": "125th Street",
+                "isSelected": false
+            },
+            {
+                "name": "Chambers Street",
+                "isSelected": false
+            },
+            {
+                "name": "96th Street",
+                "isSelected": false
+            },
+            {
+                "name": "Wall Street",
+                "isSelected": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Dzielnica",
+        "data": [
+            {
+                "name": "Śródmieście",
+                "isSelected": false
+            },
+            {
+                "name": "Praga-Północ",
+                "isSelected": false
+            },
+            {
+                "name": "Praga-Południe",
+                "isSelected": false
+            },
+            {
+                "name": "Mokotów",
+                "isSelected": false
+            },
+            {
+                "name": "Wola",
+                "isSelected": false
+            },
+            {
+                "name": "Ochota",
+                "isSelected": false
+            },
+            {
+                "name": "Ursynów",
+                "isSelected": false
+            },
+            {
+                "name": "Bemowo",
+                "isSelected": false
+            },
+            {
+                "name": "Białołęka",
+                "isSelected": false
+            },
+            {
+                "name": "Targówek",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "name": "Osiedle",
+        "data": [
+            {
+                "name": "Stary Mokotów",
+                "isSelected": false
+            },
+            {
+                "name": "Sadyba",
+                "isSelected": false
+            },
+            {
+                "name": "Ursynów Północny",
+                "isSelected": false
+            },
+            {
+                "name": "Osiedle Batorego",
+                "isSelected": false
+            },
+            {
+                "name": "Stegepole",
+                "isSelected": false
+            },
+            {
+                "name": "Osiedle Gocław",
+                "isSelected": false
+            },
+            {
+                "name": "Osiedle Augustówka",
+                "isSelected": false
+            },
+            {
+                "name": "Osiedle Wawrzyszew",
+                "isSelected": false
+            },
+            {
+                "name": "Osiedle Wrzeciono",
+                "isSelected": false
+            },
+            {
+                "name": "Osiedle Derby",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "name": "Stacja metra",
+        "data": [
+            {
+                "name": "Ratusz Arsenał",
+                "isSelected": false
+            },
+            {
+                "name": "Świętokrzyska",
+                "isSelected": false
+            },
+            {
+                "name": "Centrum",
+                "isSelected": false
+            },
+            {
+                "name": "Politechnika",
+                "isSelected": false
+            },
+            {
+                "name": "Młociny",
+                "isSelected": false
+            },
+            {
+                "name": "Plac Wilsona",
+                "isSelected": false
+            },
+            {
+                "name": "Dworzec Gdański",
+                "isSelected": false
+            },
+            {
+                "name": "Słodowiec",
+                "isSelected": false
+            },
+            {
+                "name": "Marymont",
+                "isSelected": false
+            },
+            {
+                "name": "Księcia Janusza",
+                "isSelected": false
+            },
+            {
+                "name": "Stadion Narodowy",
+                "isSelected": false
+            },
+            {
+                "name": "Wierzbno",
+                "isSelected": false
+            },
+            {
+                "name": "Raclawicka",
+                "isSelected": false
+            },
+            {
+                "name": "Kabaty",
+                "isSelected": false
+            },
+            {
+                "name": "Wilanowska",
+                "isSelected": false
+            }
+        ]
+    }
+]
